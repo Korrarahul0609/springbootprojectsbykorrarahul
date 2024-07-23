@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../.."
+		},
+		{
+			"name": "song",
+			"path": "../../../../../../../../song"
+		},
+		{
+			"name": "goodreads",
+			"path": "../../../../../../../../goodreads"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default",
+					"enableSsl": "Disabled"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "Kalki_Host",
+				"database": "kalki2898",
+				"username": "korrarahul",
+				"password": "kalki@2898",
+				"connectionTimeout": 50
+			}
+		]
+	}
+}

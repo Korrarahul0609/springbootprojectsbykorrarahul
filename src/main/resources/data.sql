@@ -1,0 +1,11 @@
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Benjamin', 3, 'All-rounder');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Michael', 18, 'Batsman');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('William', 45, 'Batsman');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Alexander', 5, 'All-rounder');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Joshua', 19, 'Batsman');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Daniel', 10, 'Bowler');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Matthew', 34, 'Bowler');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Samuel', 17, 'Batsman');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('John', 1, 'Bowler');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Earnest', 2, 'All-rounder');
+INSERT INTO team (playerName, jerseyNumber, role) VALUES ('Bob', 25, 'Batsman');
